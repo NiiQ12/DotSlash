@@ -1,0 +1,66 @@
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\bin\Debug\SmartHomeSystems.exe.config
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\bin\Debug\SmartHomeSystems.exe
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\bin\Debug\SmartHomeSystems.pdb
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\bin\Debug\ClassLibrary.dll
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\bin\Debug\ClassLibrary.pdb
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SmartHomeSystems.csprojResolveAssemblyReference.cache
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmAddComponent.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmAddPackageToOrder.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmAddProduct.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmFinaliseCorrection.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmFinaliseInstallation.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmFinaliseMaintenance.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmLogin.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmMain.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmAddOrder.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmManageClients.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmAddClient.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmManageCorrections.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmManageInstallations.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmManageMaintenances.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmManageOperations.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmManageOrders.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmManageProducts.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmAddProductToOrder.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmServiceTicket.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmSplashScreen.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SmartHomeSystems.csproj.GenerateResource.Cache
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SmartHomeSystems.exe
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SmartHomeSystems.pdb
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmCalls.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.Properties.Resources.resources
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\Project2\obj\Debug\SHS.frmViewSchedule.resources
+C:\Users\Nicky\Desktop\SHS\Project2\bin\Debug\SmartHomeSystems.exe.config
+C:\Users\Nicky\Desktop\SHS\Project2\bin\Debug\SmartHomeSystems.exe
+C:\Users\Nicky\Desktop\SHS\Project2\bin\Debug\SmartHomeSystems.pdb
+C:\Users\Nicky\Desktop\SHS\Project2\bin\Debug\ClassLibrary.dll
+C:\Users\Nicky\Desktop\SHS\Project2\bin\Debug\ClassLibrary.pdb
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SmartHomeSystems.csprojAssemblyReference.cache
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmAddComponent.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmAddPackageToOrder.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmAddProduct.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmCalls.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmFinaliseCorrection.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmFinaliseInstallation.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmFinaliseMaintenance.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmLogin.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmMain.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmAddOrder.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmManageClients.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmAddClient.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmManageCorrections.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmManageInstallations.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmManageMaintenances.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmManageOperations.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmManageOrders.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmManageProducts.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmAddProductToOrder.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmServiceTicket.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmViewSchedule.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.Properties.Resources.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SHS.frmSplashScreen.resources
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SmartHomeSystems.csproj.GenerateResource.cache
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SmartHomeSystems.csproj.CoreCompileInputs.cache
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SmartHomeSystems.csproj.CopyComplete
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SmartHomeSystems.exe
+C:\Users\Nicky\Desktop\SHS\Project2\obj\Debug\SmartHomeSystems.pdb

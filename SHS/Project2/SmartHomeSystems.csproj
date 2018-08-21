@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2A96FE1A-4877-4B36-8623-349083510FAD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SHS</RootNamespace>
+    <AssemblyName>SmartHomeSystems</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAddComponent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddComponent.Designer.cs">
+      <DependentUpon>frmAddComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddPackageToOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddPackageToOrder.Designer.cs">
+      <DependentUpon>frmAddPackageToOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddProduct.Designer.cs">
+      <DependentUpon>frmAddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCalls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCalls.Designer.cs">
+      <DependentUpon>frmCalls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFinaliseCorrection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFinaliseCorrection.Designer.cs">
+      <DependentUpon>frmFinaliseCorrection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFinaliseInstallation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFinaliseInstallation.Designer.cs">
+      <DependentUpon>frmFinaliseInstallation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFinaliseMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFinaliseMaintenance.Designer.cs">
+      <DependentUpon>frmFinaliseMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddOrder.Designer.cs">
+      <DependentUpon>frmAddOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageClients.Designer.cs">
+      <DependentUpon>frmManageClients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddClient.Designer.cs">
+      <DependentUpon>frmAddClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageCorrections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageCorrections.Designer.cs">
+      <DependentUpon>frmManageCorrections.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageInstallations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageInstallations.Designer.cs">
+      <DependentUpon>frmManageInstallations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageMaintenances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageMaintenances.Designer.cs">
+      <DependentUpon>frmManageMaintenances.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageOperations.Designer.cs">
+      <DependentUpon>frmManageOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageOrders.Designer.cs">
+      <DependentUpon>frmManageOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageProducts.Designer.cs">
+      <DependentUpon>frmManageProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddProductToOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddProductToOrder.Designer.cs">
+      <DependentUpon>frmAddProductToOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmServiceTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmServiceTicket.Designer.cs">
+      <DependentUpon>frmServiceTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewSchedule.Designer.cs">
+      <DependentUpon>frmViewSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmAddComponent.resx">
+      <DependentUpon>frmAddComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddPackageToOrder.resx">
+      <DependentUpon>frmAddPackageToOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddProduct.resx">
+      <DependentUpon>frmAddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCalls.resx">
+      <DependentUpon>frmCalls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFinaliseCorrection.resx">
+      <DependentUpon>frmFinaliseCorrection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFinaliseInstallation.resx">
+      <DependentUpon>frmFinaliseInstallation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFinaliseMaintenance.resx">
+      <DependentUpon>frmFinaliseMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddOrder.resx">
+      <DependentUpon>frmAddOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageClients.resx">
+      <DependentUpon>frmManageClients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddClient.resx">
+      <DependentUpon>frmAddClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageCorrections.resx">
+      <DependentUpon>frmManageCorrections.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageInstallations.resx">
+      <DependentUpon>frmManageInstallations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageMaintenances.resx">
+      <DependentUpon>frmManageMaintenances.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageOperations.resx">
+      <DependentUpon>frmManageOperations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageOrders.resx">
+      <DependentUpon>frmManageOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageProducts.resx">
+      <DependentUpon>frmManageProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddProductToOrder.resx">
+      <DependentUpon>frmAddProductToOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmServiceTicket.resx">
+      <DependentUpon>frmServiceTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewSchedule.resx">
+      <DependentUpon>frmViewSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary\ClassLibrary.csproj">
+      <Project>{992b2eb7-4149-4696-9054-11113173d60f}</Project>
+      <Name>ClassLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EndCall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StartCall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EndCall1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StartCall1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

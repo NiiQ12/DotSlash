@@ -1,0 +1,10 @@
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Belgium Campus\3rd Year\SOFTWARE ENGINEERING 321\Assignments & Projects\SHS\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Nicky\Desktop\SHS\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Nicky\Desktop\SHS\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Nicky\Desktop\SHS\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Nicky\Desktop\SHS\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nicky\Desktop\SHS\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Nicky\Desktop\SHS\ClassLibrary\obj\Debug\ClassLibrary.pdb
